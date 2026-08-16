@@ -11,8 +11,12 @@
   },
   "dependencies": {
     "@react-native/new-app-screen": "0.87.0",
+    "expo": "^57.0.13",
+    "gradle": "^1.2.4",
+    "llama.rn": "^0.12.9",
     "react": "19.2.3",
     "react-native": "0.87.0",
+    "react-native-fs": "^2.20.0",
     "react-native-safe-area-context": "^5.5.2"
   },
   "devDependencies": {
